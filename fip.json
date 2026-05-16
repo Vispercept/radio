@@ -1,6 +1,10 @@
 {
- "name": "FIP",
- "streamUrl": "https://icecast.radiofrance.fr/fip-midfi.mp3",
- "streamType": "liveRadio",
- "isRealtime": true
+  "audio": {
+    "hasPlaylist": false,
+    "isRealtime": true,
+    "streamUrl": "https://icecast.radiofrance.fr/fip-midfi.mp3"
+  },
+  "imageUrl": "",
+  "name": "FIP",
+  "streamType": "liveRadio"
 }
